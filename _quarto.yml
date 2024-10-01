@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Emathias"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: about
+      - href: contactinfo.qmd
+        text: contactinfo
+      - href: newlinks.qmd
+        text: newlinks
+
+format:
+  html:
+    theme: pulse
+    css: styles.css
+    toc: true
+
+
+

@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Hello, nice to see you on my 1st ever website made by using R.\nHere are a few things about me.\nI am a student studying Data analytics engineering. This is my 1st semester at George Mason.\nGo to the top right 3 horizontal lines to view other pages of this website"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Something’s cooking here :)"
+  },
+  {
+    "objectID": "newlinks.html",
+    "href": "newlinks.html",
+    "title": "newlinks",
+    "section": "",
+    "text": "Something’s cooking here :)"
+  },
+  {
+    "objectID": "contactinfo.html",
+    "href": "contactinfo.html",
+    "title": "contactinfo",
+    "section": "",
+    "text": "Email Id: ericamathias486@gmail.com"
+  }
+]
